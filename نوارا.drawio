@@ -1,9 +1,117 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.16">
   <diagram name="Page-1" id="Q6EI22oNF8uNJlpDYRb3">
-    <mxGraphModel>
+    <mxGraphModel dx="1833" dy="805" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-1" target="HSkiFWKbZ5X4qMG6qpNq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-1" value="مناقشة الفكرة في الاجتماع" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-363" y="370" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-3" target="HSkiFWKbZ5X4qMG6qpNq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-3" value="متحر كوكيز" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="273" width="148" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-4" target="HSkiFWKbZ5X4qMG6qpNq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-4" target="HSkiFWKbZ5X4qMG6qpNq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-4" value="هل الفكرة جيدة&amp;nbsp;&lt;div&gt;أم لا&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="-346.5" y="476" width="81" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-5" target="HSkiFWKbZ5X4qMG6qpNq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-5" value="يقدم العضو معلومات اكثر عن المشروع" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="544" width="135" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-6" target="HSkiFWKbZ5X4qMG6qpNq-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-623" y="1213" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-623" y="825" />
+              <mxPoint x="-625" y="1023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-6" value="رفض الفريق للفكرة" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="540" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-7" target="HSkiFWKbZ5X4qMG6qpNq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-7" value="يقدم اقتراح : هل يكون المتجر سحابي أم لا&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-355.5" y="621" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-8" target="HSkiFWKbZ5X4qMG6qpNq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-8" value="يراجع الفريق الفكرة والاقتراح&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-378" y="719" width="162.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-9" target="HSkiFWKbZ5X4qMG6qpNq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-9" target="HSkiFWKbZ5X4qMG6qpNq-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-378" y="844.9512195121952" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-9" value="هل الاقتراح مقبول" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="813" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-630" y="1241.6538461538462" as="targetPoint" />
+            <mxPoint x="-632" y="1252" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-639" y="1248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="HSkiFWKbZ5X4qMG6qpNq-27">
+          <mxGeometry x="-0.1811" y="8" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="HSkiFWKbZ5X4qMG6qpNq-27">
+          <mxGeometry x="-0.8996" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-11" target="HSkiFWKbZ5X4qMG6qpNq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-11" value="يراجع العضو الاقتراح&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-151" y="811" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-12" value="نهاية التخطيط للمشروع" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-346" y="949" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HSkiFWKbZ5X4qMG6qpNq-34" target="HSkiFWKbZ5X4qMG6qpNq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-34" value="يرسل الفريق اقتراح للمدير&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-529" y="813" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-36" value="نعم" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="492" width="60" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-37" value="لا" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="487" width="60" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-39" value="نعم" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-415.5" y="811" width="60" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HSkiFWKbZ5X4qMG6qpNq-40" value="لا" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-257" y="811" width="141" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
